@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-08-15)
 
 <section class="features">
 
@@ -16,12 +16,26 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7877](https://github.com/stdlib-js/stdlib/issues/7877)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`1913191`](https://github.com/stdlib-js/stdlib/commit/1913191dea38c0f42f7143747c121db38f1ebc35) - **chore:** fix C lint errors [(#7878)](https://github.com/stdlib-js/stdlib/pull/7878) _(by GeoDaoyu)_
+-   [`22c39d6`](https://github.com/stdlib-js/stdlib/commit/22c39d621ee3e28db8f1387f205d12f7317f136f) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`fc4a92a`](https://github.com/stdlib-js/stdlib/commit/fc4a92a4a2356e4de3026fcfcfbd6433121851a0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -37,9 +51,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
+-   GeoDaoyu
 -   Muhammad Haris
 -   Philipp Burckhardt
 
