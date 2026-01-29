@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-15)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`6c75b77`](https://github.com/stdlib-js/stdlib/commit/6c75b77cf9546d4dde018bf2a503e9c694bf8e32) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dnansum` [(#8933)](https://github.com/stdlib-js/stdlib/pull/8933) _(by Krishna Awasthi)_
 -   [`1913191`](https://github.com/stdlib-js/stdlib/commit/1913191dea38c0f42f7143747c121db38f1ebc35) - **chore:** fix C lint errors [(#7878)](https://github.com/stdlib-js/stdlib/pull/7878) _(by Geo Daoyu)_
 -   [`22c39d6`](https://github.com/stdlib-js/stdlib/commit/22c39d621ee3e28db8f1387f205d12f7317f136f) - **test:** add signed zero tests _(by Athan Reines)_
