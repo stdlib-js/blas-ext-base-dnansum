@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-02)
+## Unreleased (2026-06-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`37b53d2`](https://github.com/stdlib-js/stdlib/commit/37b53d20a65b426c7d5a9a4048ac31b10af45df5) - **refactor:** use `strideX` parameter name in `blas/ext/base/dnansum` [(#12536)](https://github.com/stdlib-js/stdlib/pull/12536) _(by Philipp Burckhardt)_
 -   [`6586759`](https://github.com/stdlib-js/stdlib/commit/6586759419d7dd5dc7a4e3d1c9b60f25cd7085b5) - **bench:** refactor to use string interpolation in blas/ext/base/dnansum [(#10540)](https://github.com/stdlib-js/stdlib/pull/10540) _(by Kamal Singh Rautela)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Kamal Singh Rautela
+-   Philipp Burckhardt
 
 </section>
 
